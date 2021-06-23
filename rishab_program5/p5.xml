@@ -1,0 +1,35 @@
+<?xml-stylesheet type="text/css" href="prog5.css"?>
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<h1> STUDENTS DATABASE </h1>
+	</head>
+	<students>
+		<student>
+			<USN>USN : 1JT18IS010</USN>
+			<name>Name : HITESH </name>
+			<college>COLLEGE : JIT</college>
+			<branch>BRANCH : Information Science and Engineering</branch>
+			<year>YEAR : 2018</year>
+			<e-mail>E-Mail : hithu03@gmail.com</e-mail>
+		</student>
+
+		<student>
+			<USN>USN : 1JT18IS031 </USN>
+			<name>NAME : MEGHANA </name>
+			<college>COLLEGE : JIT</college>
+			<branch>BRANCH : Information Science and Engineering</branch>
+			<year>YEAR : 2018</year>
+			<e-mail>E-Mail : meghana19@gmail.com</e-mail>
+		</student>
+
+		<student>
+			<USN>USN : 1JT18IS047</USN>
+			<name>NAME : PRADYUMNA </name>
+			<college>COLLEGE : JIT</college>
+			<branch>BRANCH : Information Science and Engineering</branch>
+			<year>YEAR : 2018</year>
+			<e-mail>E-Mail : pradyumna19@gmail.com</e-mail>
+		</student>
+	</students>
+</html>
